@@ -1,15 +1,6 @@
 
-Part-1
-https://github.com/mutlucanozel/project_deezer_swiftui/assets/125356427/3ba613cc-3b7e-4ca5-8aa1-43bdc116340a
-Part-2
-https://github.com/mutlucanozel/project_deezer_swiftui/assets/125356427/a160c2fa-2df9-435d-8af0-4f11c0224a60
-Part-3
-https://github.com/mutlucanozel/project_deezer_swiftui/assets/125356427/0a4a29d3-5d85-487c-8cf6-353fff591364
-Part-4
-https://github.com/mutlucanozel/project_deezer_swiftui/assets/125356427/ae0a2f2b-56aa-49ee-b175-981a827de10a
 
-
-Project Video Link: https://www.youtube.com/shorts/jLjqubwAyEA
+Project Full  Video Link  --->>.    https://www.youtube.com/shorts/jLjqubwAyEA <<---  Project Full  Video Link
 
 <h1 align="center">Mutlu Can ÖZEL</h1>
 <h3 align="center">An iOS developer who improves herself day by day.</h3>
@@ -20,7 +11,12 @@ Project Video Link: https://www.youtube.com/shorts/jLjqubwAyEA
 
 - 🌱 I’m currently learning **Swift-NodeJS-ReactJS-MongoDB**
 
+- For Full video link : https://www.youtube.com/shorts/jLjqubwAyEA
+
 - 📫 How to reach me **mutlu-26@hotmail.com**
+- Short video 
+
+https://github.com/mutlucanozel/project_deezer_swiftui/assets/125356427/fb6551cf-27d7-4304-85a1-9b1ebb64ccc7
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
